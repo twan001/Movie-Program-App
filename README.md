@@ -1,4 +1,4 @@
-# Movie# Movie-Program-App
+# Movie-Program-App
 This application web scraps Fandango and finds the movie and time that the user searches for. 
 
 # Motivation
